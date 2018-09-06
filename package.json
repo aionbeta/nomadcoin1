@@ -1,0 +1,13 @@
+{
+  "name": "nomadcoin",
+  "version": "1.0.0",
+  "description": "Nomadcoin, the Node awesome coin made in NodeJS",
+  "main": "src/server.js",
+  "repository": "https://github.com/aionseo/nomadcoin",
+  "author": "aionseo <40692290+aionseo@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
